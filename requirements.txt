@@ -1,0 +1,4 @@
+streamlit==1.25.0   # La versión puede cambiar según la más reciente
+tensorflow==2.10.0  # Ajusta según la versión de TensorFlow que estés usando
+numpy==1.23.5       # Necesario para operaciones con arrays
+Pillow==9.3.0       # Para cargar y procesar imágenes
